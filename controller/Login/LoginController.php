@@ -2,6 +2,8 @@
 
     include_once '../model/Login/LoginModel.php';
 
+    setcookie("recordar","password",time() + 84600);
+
     class LoginController {
 
         public function getLogin(){
