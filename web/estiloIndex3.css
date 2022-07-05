@@ -1,0 +1,19 @@
+.pb1{
+    margin-left: 25%;
+}
+
+.pb2{
+    margin-left: 50%;
+}
+
+.pb3{
+    margin-left: 75%;
+}
+
+.back{
+    background: white;
+}
+
+.fondo{
+    background-image: url("https://mdn.mozillademos.org/files/7693/catfront.png");
+}
