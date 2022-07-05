@@ -33,7 +33,7 @@
     <div class="form-group">
         <div class="form-check">
             <label class="form-check-label" for="gridCheck"></label>
-            <input class="form-check-input" type="checkbox" id="gridCheck" name="password" value="Remember me"> 
+            <input class="form-check-input" type="checkbox" id="gridCheck" name="password">Remember me
         
         </div>
     </div>
